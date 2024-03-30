@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm UNIK</h1>
 <h3 align="left">Connect With Me :</h3>
-<p align="left">
-
 
 <p align="center">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=VIP-Whisper&countColorcountColor&countColor=%23FF0000" alt="Profile Views">
