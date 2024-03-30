@@ -3,7 +3,3 @@
 </p>
 
 ###
-<th><a href="source/plugins/languages/README.md">🈷️ Languages activity</a></th>
-  </tr>
-  <tr>
-        
