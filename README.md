@@ -7,6 +7,14 @@
 
 - 📫 How to reach me **yunickthami@gmail.com**
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hani2ali) <a href="https://github.com/Hani2ali"></a>
+
+</p>
+
+![](https://img.shields.io/badge/<N1LOY_V4U>-<niloy0-H4CK3R>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+
+<img src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.webp?cid=6c09b95240684b5aa38668a31b3149db5aec5caaad2210f4&rid=giphy.webp&ct=g" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/yunickeditz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yunickeditz" height="30" width="40" /></a>
