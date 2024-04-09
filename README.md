@@ -4,8 +4,6 @@
   <img 
     src="https://api.visitorbadge.io/api/VisitorHit?user=UNIKBAAP&countColorcountColor&countColor=%23FF0000" alt="Profile Views">
 </p>
-</p>
-![](https://img.shields.io/badge/<N1LOY_V4U>-<niloy0-H4CK3R>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 <img src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.webp?cid=6c09b95240684b5aa38668a31b3149db5aec5caaad2210f4&rid=giphy.webp&ct=g" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>
 
