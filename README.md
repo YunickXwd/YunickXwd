@@ -5,8 +5,6 @@
     src="https://api.visitorbadge.io/api/VisitorHit?user=UNIKBAAP&countColorcountColor&countColor=%23FF0000" alt="Profile Views">
 </p>
 
-- 📫 How to reach me **yunickthami@gmail.com**
-
 
 </p>
 
