@@ -1,29 +1,53 @@
- ><img src="https://img.shields.io/badge/MADE%20IN NEPAL-PROGRAMMER.XD-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
-
-<h3 align="center">
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-  &nbsp; Yunick Xwd &nbsp;
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-</h3>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Yunick Xwd 
 
 <p align="center">
-  <img 
-    src="https://api.visitorbadge.io/api/VisitorHit?user=ReshamXwd&countColorcountColor&countColor=%23FF0000" alt="Profile Views">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Nepali+Developer;Python+Enthusiast;C%23+Coder;Open-Source+Contributor" alt="Typing SVG" />
 </p>
 
-<img src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.webp?cid=6c09b95240684b5aa38668a31b3149db5aec5caaad2210f4&rid=giphy.webp&ct=g" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>
+<div align="center">
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=YunickXwd&color=red&style=flat-square)](https://github.com/YunickXwd)
+  [![Made in Nepal](https://img.shields.io/badge/MADE%20IN-NEPAL-red.svg?style=flat-square)](https://en.wikipedia.org/wiki/Nepal)
+  [![GitHub Followers](https://img.shields.io/github/followers/YunickXwd?color=green&label=Followers&style=flat-square)](https://github.com/YunickXwd?tab=followers)
+  
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/yunickeditz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="YunickXwd" height="30" width="40" /></a>
-<a href="https://instagram.com/unik_bott" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="YunickXwd" height="30" width="40" /></a>
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cs,git,github,vscode&theme=light" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YunickXwd&show_icons=true&locale=en&layout=compact" alt="YunickXwd" /></p>
+### 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YunickXwd&show_icons=true&locale=en" alt="YunickXwd" /></p>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YunickXwd&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunickXwd&layout=compact&theme=radical&hide_border=true" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YunickXwd&" alt="YunickXwd" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YunickXwd&theme=radical&hide_border=true" alt="YunickXwd" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://fb.com/yunickeditz" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/unik_bott" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" alt="Coding Cat" />
+</p>
