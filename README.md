@@ -31,8 +31,6 @@ I'm a passionate full-stack developer who loves creating efficient, elegant solu
 
   ![Visitor Count](https://komarev.com/ghpvc/?username=YunickXwd&style=for-the-badge&color=red&label=VISITORS&animation=spin)
   
-  <img src="https://media.giphy.com/media/LnUtXr3xZ5yJybxXAW/giphy.gif" width="150">
-  
   ![Stars](https://img.shields.io/github/stars/YunickXwd?color=gold&style=for-the-badge&label=STARS)
 
 </div>
