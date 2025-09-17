@@ -35,9 +35,6 @@ I'm a passionate full-stack developer who loves creating efficient, elegant solu
 
 </div>
 
-## 🔥 H
-
-![Hacker GIF](https://share.google/WgHO0plAQ28Nbjpet)
 
 ## 📫 Let's Connect
 
