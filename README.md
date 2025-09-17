@@ -1,53 +1,46 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Yunick Xwd 
+# 👋 Hi, I'm Yunick!
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Nepali+Developer;Python+Enthusiast;C%23+Coder;Open-Source+Contributor" alt="Typing SVG" />
-</p>
+### Python | JavaScript | HTML | CSS Developer
 
-<div align="center">
-  
-  [![Profile Views](https://komarev.com/ghpvc/?username=YunickXwd&color=red&style=flat-square)](https://github.com/YunickXwd)
-  [![Made in Nepal](https://img.shields.io/badge/MADE%20IN-NEPAL-red.svg?style=flat-square)](https://en.wikipedia.org/wiki/Nepal)
-  [![GitHub Followers](https://img.shields.io/github/followers/YunickXwd?color=green&label=Followers&style=flat-square)](https://github.com/YunickXwd?tab=followers)
-  
-</div>
+I'm a passionate full-stack developer who loves creating efficient, elegant solutions to complex problems. I enjoy working on both front-end and back-end development, with a particular interest in building responsive web applications.
 
----
+## 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,git,github,vscode&theme=light" />
-</p>
+**Backend:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
----
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YunickXwd&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunickXwd&layout=compact&theme=radical&hide_border=true" />
-</p>
+![YunickXwd's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunickXwd&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YunickXwd&theme=radical&hide_border=true" alt="YunickXwd" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YunickXwd&layout=compact&theme=radical)
 
----
+## 🔥 Hacker Mode
 
-### 🌐 Connect With Me
+![Hacker GIF](https://media.giphy.com/media/U3DYWjX2f5Q2bzbLJb/giphy.gif)
 
-<p align="center">
-  <a href="https://fb.com/yunickeditz" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/unik_bott" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+## 📫 Let's Connect
+
+- 🔗 [GitHub](https://github.com/YunickXwd)
+- 💼 [LinkedIn](#) YunickXwd
+- 📧 [Email](#) yunickxwd@gmail.com
+
+## 🎯 Currently Working On
+
+- Enhancing my React skills
+- Building full-stack applications
+- Contributing to open source projects
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" alt="Coding Cat" />
-</p>
+⭐️ From [YunickXwd](https://github.com/YunickXwd)
