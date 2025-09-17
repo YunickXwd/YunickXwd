@@ -33,8 +33,6 @@ I'm a passionate full-stack developer who loves creating efficient, elegant solu
   
   <img src="https://media.giphy.com/media/LnUtXr3xZ5yJybxXAW/giphy.gif" width="150">
   
-  **"First solve the problem. Then write the code."** - _John Johnson_  
-  
   ![Stars](https://img.shields.io/github/stars/YunickXwd?color=gold&style=for-the-badge&label=STARS)
 
 </div>
