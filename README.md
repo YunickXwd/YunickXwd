@@ -98,19 +98,6 @@ I'm a passionate full-stack developer who loves creating efficient, elegant solu
 ### ⚡ Fun Fact:
 *I turn coffee into code ☕ → 💻*
 
-![Coding GIF](https://media.giphy.com/media/LnUtXr3xZ5yJybxXAW/giphy.gif)
-
-</div>
-
----
-
-<div align="center">
-
-### 🎧 Currently Coding To:
-[![Spotify](https://spotify-readme.vercel.app/api?theme=radical&scan=true&background=000000)](https://open.spotify.com/user/your_username)
-
-</div>
-
 ---
 
 <div align="center">
