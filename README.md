@@ -21,9 +21,10 @@ I'm a passionate full-stack developer who loves creating efficient, elegant solu
 
 ## 📊 GitHub Stats
 
-![YunickXwd's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunickXwd&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YunickXwd&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YunickXwd&show_icons=true&theme=radical" alt="YunickXwd's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunickXwd&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ## 🔥 Hacker Mode
 
@@ -32,8 +33,8 @@ I'm a passionate full-stack developer who loves creating efficient, elegant solu
 ## 📫 Let's Connect
 
 - 🔗 [GitHub](https://github.com/YunickXwd)
-- 💼 [LinkedIn](#) YunickXwd
-- 📧 [Email](#) yunickxwd@gmail.com
+- 💼 [LinkedIn](YunickXwd) 
+- 📧 [Email](yunickxwd@gmail.com) 
 
 ## 🎯 Currently Working On
 
